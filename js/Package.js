@@ -1,0 +1,1 @@
+window.ulee={},ulee.io={},window.G={},window.D={},window.Vector3=Laya.Vector3,window.Pool=Laya.Pool,window.Handler=Laya.Handler,G.VERSION=1,G.DEBUG=!1,G.ONLINE=!1,G.PRINT_CLICK=!1,G.LOAD_DATA_JS=!0,G.setDebugMode=function(){G.PRINT_CLICK=!0,G.DEBUG=!0,Laya.Stat.show(0,0)};
